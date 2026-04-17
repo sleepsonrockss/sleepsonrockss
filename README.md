@@ -33,7 +33,7 @@ When I'm not at my desk, I'm probably at a hackathon, on the soccer pitch, or re
 | 🧠 **Migraine Minder** | Detects early neurological migraine signatures from EEG data with 85% sensitivity, 2 hours before onset. | Python, scikit-learn, NumPy, Pandas |
 | 🚗 **TrafficVisionRT** | Real-time traffic object detection at 93% accuracy and ~30ms latency using optimized YOLO/SSD models. | PyTorch, OpenCV |
 | 🎟️ **LuckySpot App** | Lottery-based event management app with auditable randomized selection for 100+ users. | Java, Kotlin, Firebase |
-| 🎨 **3D Renderer** | Ray tracer built from scratch in C — no libraries, just vectors, math, and geometry. | C |
+| 🎨 **3D Renderer** | Ray tracer built from scratch in C - no libraries, just vectors, math, and geometry. | C |
 | 📘 **Facebook Clone** | Static front-end clone of Facebook's UI. | HTML, CSS, JS |
 | 💼 **LinkedIn Clone** | Static front-end clone of LinkedIn's UI. | HTML, CSS |
 
