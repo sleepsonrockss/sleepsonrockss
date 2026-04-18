@@ -2,7 +2,7 @@
 
 4th year Computer Science & Statistics student at the **University of Alberta**, with a passion for Reinforcement Learning, Machine learning, Computer vision, and building things that actually solve real problems. I love the intersection of math and code whether that's training neural networks, deriving statistical models, or rendering 3D scenes from scratch in C.
 
-When I'm not at my desk, I'm probably at a hackathon, on the soccer pitch, or reading Dan Brown. Big fan of Interstellar. FC Bayern München till I die.
+When I'm not at my desk, I'm probably at a hackathon, on the soccer pitch, reading Dan Brown or supporting FC Bayern München.
 
 ---
 
