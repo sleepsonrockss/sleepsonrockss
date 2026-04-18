@@ -1,12 +1,12 @@
-# Hey, I'm Animesh 👋
+# Hey, I'm Animesh
 
-4th year Computer Science & Statistics student at the **University of Alberta**, with a passion for Reinforcement Learning, Machine learning, Computer vision, and building things that actually solve real problems. I love the intersection of math and code - whether that's training neural networks, deriving statistical models, or rendering 3D scenes from scratch in C.
-
-When I'm not at my desk, I'm probably at a hackathon, on the soccer pitch, or reading Dan Brown. Big fan of Interstellar. ⚽ FC Bayern München till I die.
+4th year Computer Science & Statistics student at the **University of Alberta**, with a passion for Reinforcement Learning, Machine learning, Computer vision, and building things that actually solve real problems. I love the intersection of math and code whether that's training neural networks, deriving statistical models, or rendering 3D scenes from scratch in C.
+And did I mention that I also love participating at hackathons!
+When I'm not at my desk, I'm probably at a hackathon, on the soccer pitch, or reading Dan Brown. Big fan of Interstellar. FC Bayern München till I die.
 
 ---
 
-## 🧠 What I Work With
+## What I Work With
 
 **Machine Learning & AI**
 `Python` `PyTorch` `TensorFlow` `scikit-learn` `OpenCV` `NumPy` `Pandas` `MLOps`
@@ -25,7 +25,7 @@ When I'm not at my desk, I'm probably at a hackathon, on the soccer pitch, or re
 
 ---
 
-## 🚀 Projects
+## Projects
 
 | Project | Description | Stack |
 |--------|-------------|-------|
@@ -39,21 +39,13 @@ When I'm not at my desk, I'm probably at a hackathon, on the soccer pitch, or re
 
 ---
 
-## 🎓 Courses I've Enjoyed
+## Courses I've Enjoyed
 
 - **CMPUT 328** - Visual Recognition (CNNs, Object Detection, Segmentation)
 - **CMPUT 365** - Reinforcement Learning ❤️
 - **CMPUT 301** - Software Engineering
 - **STAT 437** - High Dimensional Data Analysis
-- **STAT 378** - Probability & Stochastic Processes
-
----
-
-## 🏆 Achievements
-
-- 🎖️ Dean's Honor Roll
-- 🏅 Audrey Yew-Teck Chung and Eng-Theng Teo Memorial Scholarship
-- ⚡ Hackathon enthusiast
+- **STAT 378** - Probability & Stochastic 
 
 ---
 
