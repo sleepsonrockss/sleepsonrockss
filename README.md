@@ -57,4 +57,4 @@ When I'm not at my desk, I'm probably at a hackathon, on the soccer pitch, or re
 
 ---
 
-*"Do not go gentle into that good night."* - also, Interstellar is a perfect film and I will die on that hill. 🌌
+*"Do not go gentle into that good night."* - also, Interstellar is a most perfect film.
