@@ -41,7 +41,7 @@ When I'm not at my desk, I'm probably at a hackathon, on the soccer pitch, readi
 
 ## Courses I've Enjoyed
 
-- **CMPUT 328** - Visual Recognition (CNNs, Object Detection, Segmentation)
+- **CMPUT 328** - Visual Recognition (Deep Learning)
 - **CMPUT 365** - Reinforcement Learning ❤️
 - **CMPUT 301** - Software Engineering
 - **STAT 437** - High Dimensional Data Analysis
