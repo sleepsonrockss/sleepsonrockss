@@ -1,6 +1,6 @@
 # Hey, I'm Animesh 👋
 
-4th year Computer Science & Statistics student at the **University of Alberta**, with a passion for Reinforcement Learning, Machine learning, Computer vision, and building things that actually solve real problems. I love the intersection of math and code — whether that's training neural networks, deriving statistical models, or rendering 3D scenes from scratch in C.
+4th year Computer Science & Statistics student at the **University of Alberta**, with a passion for Reinforcement Learning, Machine learning, Computer vision, and building things that actually solve real problems. I love the intersection of math and code - whether that's training neural networks, deriving statistical models, or rendering 3D scenes from scratch in C.
 
 When I'm not at my desk, I'm probably at a hackathon, on the soccer pitch, or reading Dan Brown. Big fan of Interstellar. ⚽ FC Bayern München till I die.
 
@@ -41,11 +41,11 @@ When I'm not at my desk, I'm probably at a hackathon, on the soccer pitch, or re
 
 ## 🎓 Courses I've Enjoyed
 
-- **CMPUT 328** — Visual Recognition (CNNs, Object Detection, Segmentation)
-- **CMPUT 365** — Reinforcement Learning ❤️
-- **CMPUT 301** — Software Engineering
-- **STAT 437** — High Dimensional Data Analysis
-- **STAT 378** — Probability & Stochastic Processes
+- **CMPUT 328** - Visual Recognition (CNNs, Object Detection, Segmentation)
+- **CMPUT 365** - Reinforcement Learning ❤️
+- **CMPUT 301** - Software Engineering
+- **STAT 437** - High Dimensional Data Analysis
+- **STAT 378** - Probability & Stochastic Processes
 
 ---
 
@@ -65,4 +65,4 @@ When I'm not at my desk, I'm probably at a hackathon, on the soccer pitch, or re
 
 ---
 
-*"Do not go gentle into that good night."* — also, Interstellar is a perfect film and I will die on that hill. 🌌
+*"Do not go gentle into that good night."* - also, Interstellar is a perfect film and I will die on that hill. 🌌
