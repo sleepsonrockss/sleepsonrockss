@@ -52,7 +52,6 @@ When I'm not at my desk, I'm probably at a hackathon, on the soccer pitch, readi
 ## 📬 Get In Touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Animesh_Tirkey-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/animeshtirkey)
-[![GitHub](https://img.shields.io/badge/GitHub-sleepsonrockss-181717?style=flat&logo=github)](https://github.com/sleepsonrockss)
 [![Email](https://img.shields.io/badge/Email-tirkey@ualberta.ca-D14836?style=flat&logo=gmail)](mailto:tirkey@ualberta.ca)
 
 ---
