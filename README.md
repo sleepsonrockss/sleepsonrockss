@@ -1,34 +1,19 @@
 # Hey, I'm Animesh
 4th year Computer Science & Statistics student at the **University of Alberta**, with a passion for Reinforcement Learning, Machine learning, Computer vision, and building things that actually solve real problems. I love the intersection of math and code whether that's training neural networks, deriving statistical models, or rendering 3D scenes from scratch in C.
 When I'm not at my desk, I'm probably at a hackathon, on the soccer pitch, reading Dan Brown or supporting FC Bayern München.
-
 ---
-
-## 📊 GitHub Stats
-<div align="center">
-<a href="https://github.com/SP-XD">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
-</a>
-</div>
-
----
-
 ## What I Work With
 **Machine Learning & AI**
-`Python` `PyTorch` `TensorFlow` `scikit-learn` `OpenCV` `NumPy` `Pandas` `MLOps`
+Python PyTorch TensorFlow scikit-learn OpenCV NumPy Pandas MLOps
 **App & Web Development**
-`Java` `Kotlin` `Android Studio` `React` `Node.js` `TypeScript` `HTML/CSS`
+Java Kotlin Android Studio React Node.js TypeScript HTML/CSS
 **Data & Stats**
-`R` `SPSS` `tidyverse` `ggplot2` `GLMs` `Power BI` `Microsoft Fabric`
+R SPSS tidyverse ggplot2 GLMs Power BI Microsoft Fabric
 **Cloud & Infrastructure**
-`AWS (EC2, S3)` `Google Cloud` `Firebase` `Docker` `GitHub Actions`
+AWS (EC2, S3) Google Cloud Firebase Docker GitHub Actions
 **Databases**
-`PostgreSQL` `MongoDB` `Firebase` `SQL`
-
+PostgreSQL MongoDB Firebase SQL
 ---
-
 ## Projects
 | Project | Description | Stack |
 |--------|-------------|-------|
@@ -39,22 +24,16 @@ When I'm not at my desk, I'm probably at a hackathon, on the soccer pitch, readi
 | **3D Renderer** | Ray tracer built from scratch in C - no libraries, just vectors, math, and geometry. | C |
 | **Facebook Clone** | Static front-end clone of Facebook's UI. | HTML, CSS, JS |
 | **LinkedIn Clone** | Static front-end clone of LinkedIn's UI. | HTML, CSS |
-
 ---
-
 ## Courses I've Enjoyed
 - **CMPUT 328** - Visual Recognition (Deep Learning)
 - **CMPUT 365** - Reinforcement Learning ❤️
 - **CMPUT 301** - Software Engineering
 - **STAT 437** - High Dimensional Data Analysis
 - **STAT 378** - Probability & Stochastic 
-
 ---
-
 ## 📬 Get In Touch
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Animesh_Tirkey-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/animeshtirkey)
 [![Email](https://img.shields.io/badge/Email-tirkey@ualberta.ca-D14836?style=flat&logo=gmail)](mailto:tirkey@ualberta.ca)
-
 ---
-
 *"Do not go gentle into that good night."* - also, Interstellar is the most perfect film out there.
